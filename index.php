@@ -9,11 +9,12 @@
 <body>
 <div class="navbar">
 	<ul>
-		<li><a href="posts.php">Posts</a></li>
+		<li><a href="posts.php">Edit</a></li>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="newpost.php">New</a></li>
 	</ul>
 </div>
+
 
 
 
